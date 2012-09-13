@@ -5,5 +5,5 @@ import bots
 
 
 DataBot.register(bots.RandomBot)
-DataBot.register(bots.RandomFloatBot)
+#DataBot.register(bots.RandomFloatBot)
 DataBot.register(bots.RandomIntBot)
